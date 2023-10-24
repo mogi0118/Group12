@@ -65,7 +65,7 @@ gantt
 
 
 # 功能分解圖(functional decomposition diagram, FDD)
-![功能分解圖](功能分解圖.drawio.png "功能分解圖.drawio")
+![功能分解圖](功能分解圖.drawio.png "功能分解圖")
 
 # 需求分析的描述
 
