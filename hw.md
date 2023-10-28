@@ -98,6 +98,8 @@ gantt
 |後置條件|訪客可進入公司處理業務|
 |假設|無|
 # 使用Figma劃出第一個使用案例的動態模擬畫面
+![Figma1](1.jpg "Figma1")
+![Figma2](2.jpg "Figma2")
 # 系統環境圖DFD
 ![img](DFD.jpg)
 # 系統環境圖DFD圖0
