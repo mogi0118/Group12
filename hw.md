@@ -99,6 +99,6 @@ gantt
 |假設|無|
 # 使用Figma劃出第一個使用案例的動態模擬畫面
 ### 系統環境圖DFD與DFD 圖0
-![img](DFD.JPG)
+![img](DFD.jpg)
 
 ![img](DFD000.jpg)
