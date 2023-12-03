@@ -131,6 +131,10 @@ gantt
 ![6](6.jpg "6")
 
 ***
+### 分鏡表
+![分鏡表1](分鏡表1.jpg "分鏡表1")
+![分鏡表2](分鏡表2.jpg "分鏡表2")
+![分鏡表3](分鏡表3.jpg "分鏡表3")
 ***
 ### 實體關係圖(entity-relationship diagram, ERD)
 ![img](ERD.jpg)
